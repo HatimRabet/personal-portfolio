@@ -103,7 +103,7 @@ textarea {
     top: calc(100% + 1.5rem);
     height: 5px;
     width: 3rem;
-    background: #3b3b3d;
+    background: #c933ff;
     left: 50%;
     transform: translateX(-50%);
     border-radius: 5px; }
