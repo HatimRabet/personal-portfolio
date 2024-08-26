@@ -702,3 +702,29 @@ textarea {
   to {
     opacity: 0;
     top: 27px; } }
+
+
+.work-details__desc-list {
+  font-size: 1.2em; /* Adjust the font size */
+  list-style-type: none; /* Remove default bullets */
+  padding-left: 20px; /* Add padding to the left */
+  line-height: 1.6em; /* Increase line height for readability */
+  margin: 20px 0; /* Add margin to space out the list */
+}
+
+.work-details__desc-list li {
+  margin-bottom: 10px; /* Space between list items */
+  position: relative; /* For positioning custom bullets */
+  padding-left: 25px; /* Space for custom bullet */
+}
+
+.work-details__desc-list li::before {
+  content: '•'; /* Custom bullet character */
+  color: #3498db; /* Bullet color */
+  font-size: 1.5em; /* Bullet size */
+  position: absolute; /* Positioning bullet */
+  left: 0; /* Align to the left */
+  top: 0; /* Align to the top */
+  line-height: 1.2em; /* Adjust bullet line height */
+}
+    
