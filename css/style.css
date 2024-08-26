@@ -103,7 +103,7 @@ textarea {
     top: calc(100% + 1.5rem);
     height: 5px;
     width: 3rem;
-    background: #c933ff;
+    background: #0be8ddcc;
     left: 50%;
     transform: translateX(-50%);
     border-radius: 5px; }
@@ -155,12 +155,12 @@ textarea {
     padding: 1.5rem 5rem;
     font-size: 1.6rem; }
   .btn--theme {
-    background: #c933ff;
+    background: #0be8ddcc;
     color: #fff; }
   .btn--theme-inv {
-    color: #c933ff;
+    color: #0be8ddcc;
     background: #fff;
-    border: 2px solid #c933ff;
+    border: 2px solid #0be8ddcc;
     box-shadow: none;
     padding: calc(1.5rem - 2px) calc(5rem - 2px); }
 
@@ -185,7 +185,7 @@ textarea {
 
 .home-hero {
   color: #fff;
-  background: linear-gradient(to right, rgba(201, 51, 255, 0.8), rgba(201, 51, 255, 0.8)), url(../../assets/svg/common-bg.svg);
+  background: linear-gradient(to right, rgba(11, 232, 221, 0.8), rgba(11, 232, 221, 0.8)), url(../../assets/svg/common-bg.svg);
   background-position: center;
   height: 100vh;
   min-height: 80rem;
@@ -323,7 +323,7 @@ textarea {
           font-size: 1.7rem; } }
 
 .contact {
-  background: linear-gradient(to right, rgba(201, 51, 255, 0.8), rgba(201, 51, 255, 0.8)), url(../../assets/svg/common-bg.svg);
+  background: linear-gradient(to right, #0be8ddcc, rgba(11, 232, 221, 0.8)), url(../../assets/svg/common-bg.svg);
   background-size: cover;
   background-position: center; }
   .contact__form-container {
@@ -719,12 +719,13 @@ textarea {
 }
 
 .work-details__desc-list li::before {
-  content: '•'; /* Custom bullet character */
-  color: #3498db; /* Bullet color */
-  font-size: 1.5em; /* Bullet size */
-  position: absolute; /* Positioning bullet */
+  content: '✔'; /* Custom checkmark character */
+  color: #0be8ddcc; /* Checkmark color */
+  font-size: 1.5em; /* Checkmark size */
+  position: absolute; /* Positioning checkmark */
   left: 0; /* Align to the left */
   top: 0; /* Align to the top */
-  line-height: 1.2em; /* Adjust bullet line height */
+  line-height: 1.2em; /* Adjust checkmark line height */
 }
+    
     
