@@ -1,6 +1,6 @@
 # 💼 Portfolio Website
 
-Welcome to my personal portfolio! This project is based on the [dopefolio](https://github.com/rammcodes/Dopefolio) template and showcases my work and achievements in the fields of Artificial Intelligence and Mathematics.
+Welcome to my personal portfolio! This project is based on the [dopefolio](https://github.com/rammcodes/Dopefolio) template and showcases my work and projects in the fields of Artificial Intelligence.
 
 ## 📑 Sections
 
@@ -17,6 +17,15 @@ Welcome to my personal portfolio! This project is based on the [dopefolio](https
 - **⚙️ JavaScript:** To add interactivity to the website.
 - **🔗 GitHub Pages:** For hosting the portfolio online.
 - **🚀 Netlify:** For deploying and hosting the portfolio online.
+
+## 🌐 View My Portfolio
+
+You can access my portfolio online by visiting the following link:
+
+[https://portfolio-hatim-mrabet.netlify.app/](https://portfolio-hatim-mrabet.netlify.app/)
+
+Feel free to explore and learn more about my work and experiences!
+
 
 ## 🤝 Contributing
 
